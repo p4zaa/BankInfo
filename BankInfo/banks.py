@@ -1,3 +1,4 @@
+banks_info = \
 {
   "th": {
     "bbl": {

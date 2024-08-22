@@ -1,7 +1,8 @@
-import json
+from BankInfo import banks_info
 
-# Parse the JSON string into a Python dictionary
-banks = json.loads('BankInfo/banks.json')
-
-def get_bank_info(country_code, bank_code):
-    return banks.get(country_code).get(bank_code)
+def get_bank_info(country_code, bank_code, value=None):
+    if value:
+        data = banks_info.get(country_code).get(bank_code).get(value)
+    else:
+        data = banks_info.get(country_code).get(bank_code)
+    return data
