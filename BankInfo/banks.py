@@ -220,7 +220,7 @@ banks_info = \
     },
     "ttb": {
       "code": "076",
-      "color": "0050F0", #"#ecf0f1",
+      "color": "#0050F0", #"#ecf0f1",
       "official_name": "TMBTHANACHART BANK PUBLIC COMPANY LIMITED",
       "nice_name": "TMBThanachart Bank",
       "swift_code": "TMBKTHBK"
