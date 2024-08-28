@@ -3,14 +3,14 @@ banks_info = \
   "th": {
     "bbl": {
       "code": "002",
-      "color": "#1e4598",
+      "color": "#0000FF", #"#1e4598",
       "official_name": "BANGKOK BANK PUBLIC COMPANY LTD.",
       "nice_name": "Bangkok Bank",
       "swift_code": "BKKBTHBK"
     },
     "kbank": {
       "code": "004",
-      "color": "#138f2d",
+      "color": "#00FF00", #"#138f2d",
       "official_name": "KASIKORNBANK PUBLIC COMPANY LTD.",
       "nice_name": "Kasikorn Bank",
       "swift_code": "KASITHBK,"
@@ -24,7 +24,7 @@ banks_info = \
     },
     "ktb": {
       "code": "006",
-      "color": "#1ba5e1",
+      "color": "#00A6E6", #"#1ba5e1",
       "official_name": "KRUNG THAI BANK PUBLIC COMPANY LTD.",
       "nice_name": "Krungthai Bank",
       "swift_code": "KRTHTHBK"
@@ -52,7 +52,7 @@ banks_info = \
     },
     "scb": {
       "code": "014",
-      "color": "#4e2e7f",
+      "color": "#800080", #"#4e2e7f",
       "official_name": "SIAM COMMERCIAL BANK PUBLIC COMPANY LTD.",
       "nice_name": "Siam Commercial Bank",
       "swift_code": "SICOTHBK"
@@ -94,7 +94,7 @@ banks_info = \
     },
     "bay": {
       "code": "025",
-      "color": "#fec43b",
+      "color": "#FF9900", #"#fec43b",
       "official_name": "BANK OF AYUDHYA PUBLIC COMPANY LTD.",
       "nice_name": "Bank of Ayudhya (Krungsri)",
       "swift_code": "AYUDTHBK"
@@ -220,7 +220,7 @@ banks_info = \
     },
     "ttb": {
       "code": "076",
-      "color": "#ecf0f1",
+      "color": "0050F0", #"#ecf0f1",
       "official_name": "TMBTHANACHART BANK PUBLIC COMPANY LIMITED",
       "nice_name": "TMBThanachart Bank",
       "swift_code": "TMBKTHBK"
